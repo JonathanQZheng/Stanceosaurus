@@ -1,0 +1,1 @@
+English portion of Stanceosaurus
