@@ -1,0 +1,1002 @@
+[
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1500865826190151681,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1585273120767762438,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1492443248178212865,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1500474525900812291,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1507440789697269770,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1512483933686218754,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1530773748395253760,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Other",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1575732514379157505,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Other",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1512397109143781381,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1609203427762135040,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1609235687492182016,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1510388602496245765,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1510391277291978762,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": [
+                        {
+                            "id": 1510409437806272512,
+                            "text": "",
+                            "stance": "Discussing",
+                            "leaning": "Refuting",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1584099731521024000,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1584161333049974785,
+                    "text": "",
+                    "stance": "Supporting",
+                    "leaning": null,
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1525103597817679876,
+            "text": "",
+            "stance": "Querying",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1587088247108374530,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1587187383774183428,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1506228176804057089,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1506284557057859586,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1504729418572390446,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1497747242924457987,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1497969822109298692,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Supporting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1519366567158587395,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1519378428780236802,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1596263047395479554,
+            "text": "",
+            "stance": "Querying",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1497487046922940417,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1497524757213949953,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": [
+                        {
+                            "id": 1497593120237703169,
+                            "text": "",
+                            "stance": "Discussing",
+                            "leaning": "Refuting",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1496950804787478528,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1578448391641583616,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1578484397543927809,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": [
+                        {
+                            "id": 1578484894711549952,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": null,
+                            "children": [
+                                {
+                                    "id": 1578485993195597824,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": null,
+                                    "children": [
+                                        {
+                                            "id": 1578488685418291200,
+                                            "text": "",
+                                            "stance": "Irrelevant",
+                                            "leaning": null,
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1504728019616817178,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1580201607400071168,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1580577001366523904,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1513692626721120265,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1513692628377813002,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": [
+                        {
+                            "id": 1513692630454091785,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": null,
+                            "children": [
+                                {
+                                    "id": 1513692631964033024,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": null,
+                                    "children": [
+                                        {
+                                            "id": 1513692633129967624,
+                                            "text": "",
+                                            "stance": "Irrelevant",
+                                            "leaning": null,
+                                            "children": [
+                                                {
+                                                    "id": 1513692634501591045,
+                                                    "text": "",
+                                                    "stance": "Irrelevant",
+                                                    "leaning": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 1513692636065976320,
+                                                            "text": "",
+                                                            "stance": "Irrelevant",
+                                                            "leaning": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 1513692637244579840,
+                                                                    "text": "",
+                                                                    "stance": "Irrelevant",
+                                                                    "leaning": null,
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 1513692638494568448,
+                                                                            "text": "",
+                                                                            "stance": "Irrelevant",
+                                                                            "leaning": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": 1513692639643770883,
+                                                                                    "text": "",
+                                                                                    "stance": "Irrelevant",
+                                                                                    "leaning": null,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": 1513692641057284097,
+                                                                                            "text": "",
+                                                                                            "stance": "Irrelevant",
+                                                                                            "leaning": null,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": 1513692642256859144,
+                                                                                                    "text": "",
+                                                                                                    "stance": "Irrelevant",
+                                                                                                    "leaning": null,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "id": 1513692643464777735,
+                                                                                                            "text": "",
+                                                                                                            "stance": "Irrelevant",
+                                                                                                            "leaning": null,
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": 1513692645067001857,
+                                                                                                                    "text": "",
+                                                                                                                    "stance": "Irrelevant",
+                                                                                                                    "leaning": null,
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": 1513692646199504899,
+                                                                                                                            "text": "",
+                                                                                                                            "stance": "Irrelevant",
+                                                                                                                            "leaning": null,
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": 1513692647197745152,
+                                                                                                                                    "text": "",
+                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                    "leaning": null,
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": 1513692648409866242,
+                                                                                                                                            "text": "",
+                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                            "leaning": null,
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": 1513692649840066562,
+                                                                                                                                                    "text": "",
+                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                    "leaning": null,
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": 1513692651081633792,
+                                                                                                                                                            "text": "",
+                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                            "leaning": null,
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": 1513692652256083977,
+                                                                                                                                                                    "text": "",
+                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                    "leaning": null,
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": 1513692653719859201,
+                                                                                                                                                                            "text": "",
+                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                            "leaning": null,
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": 1513692654965600265,
+                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                    "stance": "Discussing",
+                                                                                                                                                                                    "leaning": "Refuting",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1562481181731434497,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1587955585018126336,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1588087916781359106,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": [
+                        {
+                            "id": 1588170072971005952,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": null,
+                            "children": [
+                                {
+                                    "id": 1588175596885987329,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": null,
+                                    "children": [
+                                        {
+                                            "id": 1588178276727521283,
+                                            "text": "",
+                                            "stance": "Irrelevant",
+                                            "leaning": null,
+                                            "children": [
+                                                {
+                                                    "id": 1588179060538036226,
+                                                    "text": "",
+                                                    "stance": "Supporting",
+                                                    "leaning": null,
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1562820141116985344,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1563111223540924420,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1572937807462793216,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Other",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1542476439504781312,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1519362244542439424,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1628297213485932546,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1572937870096171010,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1507045249104941068,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1503808533523009542,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1515226559942053894,
+                    "text": "",
+                    "stance": "Supporting",
+                    "leaning": null,
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1542591560952553473,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1542777154701869058,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1492900133302075394,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1493244429402005505,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1629004254382882816,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1629100624645173250,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Supporting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1504728657033670656,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1578629300831498242,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1578633428962279426,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": [
+                        {
+                            "id": 1578646954875453440,
+                            "text": "",
+                            "stance": "Discussing",
+                            "leaning": "Refuting",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1626709940294541313,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1583835054811148288,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1522923896428711936,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1570106682771914756,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1611535430104584194,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1611891866995130369,
+                    "text": "",
+                    "stance": "Querying",
+                    "leaning": null,
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1504753595190759424,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1520852206144139264,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1493886620222857221,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1493917047495012352,
+                    "text": "",
+                    "stance": "Supporting",
+                    "leaning": null,
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1579213589902422016,
+            "text": "",
+            "stance": "Querying",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0412\u043e\u044e\u044e\u0442 \u0432\u043e\u0439\u0441\u043a\u0430 \u041d\u0410\u0422\u041e.",
+        "id": "1",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1497476481450188801,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    }
+]

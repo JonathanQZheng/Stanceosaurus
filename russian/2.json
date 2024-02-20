@@ -1,0 +1,1068 @@
+[
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1634559925006344194,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1571541185776308233,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1571929695733571586,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1628659090372145154,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Other",
+            "children": [
+                {
+                    "id": 1628663275867996165,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Supporting",
+                    "children": []
+                },
+                {
+                    "id": 1629020724110270464,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1585932979482001408,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1592444648483876865,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1579542038584098818,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Other",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1616107181614538753,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1590308845829914625,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1583820636014510081,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1563700641364680704,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1634176519638593536,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1634372958352179200,
+                    "text": "",
+                    "stance": "Querying",
+                    "leaning": null,
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1569742099918061569,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1616977134257582081,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1586095310035554304,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1594538995047960576,
+            "text": "",
+            "stance": "Querying",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1630306249932779522,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1595792670793793540,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1628713508530540549,
+            "text": "",
+            "stance": "Querying",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1605994211144216576,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1603042235670532098,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1573815601759412230,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1591824429759307778,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1571087536390541312,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1605753642920726528,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1605764100180647936,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": [
+                        {
+                            "id": 1605768293276532738,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": null,
+                            "children": [
+                                {
+                                    "id": 1605770268068270081,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": null,
+                                    "children": [
+                                        {
+                                            "id": 1605772631021481987,
+                                            "text": "",
+                                            "stance": "Irrelevant",
+                                            "leaning": null,
+                                            "children": [
+                                                {
+                                                    "id": 1605774462430879745,
+                                                    "text": "",
+                                                    "stance": "Irrelevant",
+                                                    "leaning": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 1605774797065134083,
+                                                            "text": "",
+                                                            "stance": "Irrelevant",
+                                                            "leaning": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 1605776798276415490,
+                                                                    "text": "",
+                                                                    "stance": "Irrelevant",
+                                                                    "leaning": null,
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 1605777343255035904,
+                                                                            "text": "",
+                                                                            "stance": "Irrelevant",
+                                                                            "leaning": null,
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1586366473789808640,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1612039068090605568,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1577653558618513409,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1629122344760344577,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1576787463283957760,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1596262441071292417,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1584090072382832640,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1613824324439314432,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1582297329486659584,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Other",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1568934085879283714,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Other",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1588808616013955072,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1588975995780235264,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": [
+                        {
+                            "id": 1589040875702583296,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": null,
+                            "children": [
+                                {
+                                    "id": 1589067552185282560,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": null,
+                                    "children": [
+                                        {
+                                            "id": 1589068767191236609,
+                                            "text": "",
+                                            "stance": "Irrelevant",
+                                            "leaning": null,
+                                            "children": [
+                                                {
+                                                    "id": 1589077287949209600,
+                                                    "text": "",
+                                                    "stance": "Irrelevant",
+                                                    "leaning": null,
+                                                    "children": [
+                                                        {
+                                                            "id": 1589093170763423745,
+                                                            "text": "",
+                                                            "stance": "Irrelevant",
+                                                            "leaning": null,
+                                                            "children": [
+                                                                {
+                                                                    "id": 1589100204841914370,
+                                                                    "text": "",
+                                                                    "stance": "Irrelevant",
+                                                                    "leaning": null,
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 1589100983699001345,
+                                                                            "text": "",
+                                                                            "stance": "Irrelevant",
+                                                                            "leaning": null,
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": 1589101605273886720,
+                                                                                    "text": "",
+                                                                                    "stance": "Irrelevant",
+                                                                                    "leaning": null,
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": 1589104354736640002,
+                                                                                            "text": "",
+                                                                                            "stance": "Irrelevant",
+                                                                                            "leaning": null,
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": 1589107889649905664,
+                                                                                                    "text": "",
+                                                                                                    "stance": "Irrelevant",
+                                                                                                    "leaning": null,
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "id": 1589108737305849856,
+                                                                                                            "text": "",
+                                                                                                            "stance": "Irrelevant",
+                                                                                                            "leaning": null,
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": 1589118878567002116,
+                                                                                                                    "text": "",
+                                                                                                                    "stance": "Irrelevant",
+                                                                                                                    "leaning": null,
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": 1589200749472669696,
+                                                                                                                            "text": "",
+                                                                                                                            "stance": "Irrelevant",
+                                                                                                                            "leaning": null,
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": 1589227047179931649,
+                                                                                                                                    "text": "",
+                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                    "leaning": null,
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": 1589270984271724544,
+                                                                                                                                            "text": "",
+                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                            "leaning": null,
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": 1589273730953269248,
+                                                                                                                                                    "text": "",
+                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                    "leaning": null,
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": 1589282215447646208,
+                                                                                                                                                            "text": "",
+                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                            "leaning": null,
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": 1589282782110679040,
+                                                                                                                                                                    "text": "",
+                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                    "leaning": null,
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": 1589284636609634305,
+                                                                                                                                                                            "text": "",
+                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                            "leaning": null,
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": 1589285083416252416,
+                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                    "leaning": null,
+                                                                                                                                                                                    "children": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "id": 1589286720729919488,
+                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                                            "leaning": null,
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "id": 1589287380623949825,
+                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                                    "leaning": null,
+                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "id": 1589287985761378305,
+                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                                                            "leaning": null,
+                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "id": 1589288506626826241,
+                                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                                                    "leaning": null,
+                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                            "id": 1589290699316678656,
+                                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                                                                            "leaning": null,
+                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                    "id": 1589291778053922818,
+                                                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                                                                    "leaning": null,
+                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                            "id": 1589292454615781376,
+                                                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                                                                                            "leaning": null,
+                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                    "id": 1589292620190085121,
+                                                                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                                                                                    "leaning": null,
+                                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                            "id": 1589296496985649152,
+                                                                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                                                                                                            "leaning": null,
+                                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                    "id": 1589297009202434049,
+                                                                                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                                                                                                    "leaning": null,
+                                                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                                            "id": 1589298376642039808,
+                                                                                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                                                                                                                            "leaning": null,
+                                                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                                    "id": 1589299935546986501,
+                                                                                                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                                                                                                                    "leaning": null,
+                                                                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                                                            "id": 1589300627729166338,
+                                                                                                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                                                                                                            "stance": "Discussing",
+                                                                                                                                                                                                                                                                                            "leaning": "Refuting",
+                                                                                                                                                                                                                                                                                            "children": []
+                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            ]
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ]
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1621796251380465664,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1621808040457420801,
+                    "text": "",
+                    "stance": "Querying",
+                    "leaning": null,
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1626691055843155968,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1591797972622254082,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1591807033636012034,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1569539213024022528,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Other",
+            "children": [
+                {
+                    "id": 1569555154780786689,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1587885142663921664,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1588233982398930945,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Supporting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1585233255909163008,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1595805851809243137,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1620457882780311552,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1620458956366946304,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": [
+                        {
+                            "id": 1620755224670666753,
+                            "text": "",
+                            "stance": "Discussing",
+                            "leaning": "Refuting",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1607044753849196544,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1603148849526325252,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1575595466393198592,
+            "text": "",
+            "stance": "Querying",
+            "leaning": null,
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1587535003264684032,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1620666747899756545,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": [
+                {
+                    "id": 1620673651501830146,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": []
+                },
+                {
+                    "id": 1620710146510057472,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": []
+                },
+                {
+                    "id": 1620715374009524224,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": []
+                },
+                {
+                    "id": 1620727573197238274,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": null,
+                    "children": []
+                },
+                {
+                    "id": 1620728562075709440,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                },
+                {
+                    "id": 1620758729733083137,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1569708501227782144,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0412 \u0443\u043a\u0440\u0430\u0438\u043d\u0435 \u0435\u0441\u0442\u044c \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0430\u044e\u0442 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435 \u041d\u0410\u0422\u041e.",
+        "id": "2",
+        "source": "BBC",
+        "root_tweet": {
+            "id": 1621772011948105728,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": null,
+            "children": [
+                {
+                    "id": 1621773539211706369,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Other",
+                    "children": []
+                }
+            ]
+        }
+    }
+]
