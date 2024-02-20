@@ -1,0 +1,1169 @@
+[
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1605797211291340801,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1605802585054511104,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                },
+                {
+                    "id": 1605806790742089728,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1609702460829966338,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": [
+                {
+                    "id": 1609705647028699143,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1619267377530826752,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": [
+                {
+                    "id": 1619624462789509121,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1581746085587918848,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1604494557684670469,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": [
+                {
+                    "id": 1604495272901545984,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Other",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1604850717205970946,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1593308281967198211,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1599488205874946052,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1599491932354322432,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1622313432564244480,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1622314283429150721,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1618702910447304705,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1618834664021708802,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1625457442367602689,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1607032292714627093,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1609207539278774275,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": [
+                        {
+                            "id": 1609209873970991114,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": "",
+                            "children": [
+                                {
+                                    "id": 1609221531326124032,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": "",
+                                    "children": [
+                                        {
+                                            "id": 1609253467528249351,
+                                            "text": "",
+                                            "stance": "Irrelevant",
+                                            "leaning": "",
+                                            "children": [
+                                                {
+                                                    "id": 1609301909189414915,
+                                                    "text": "",
+                                                    "stance": "Irrelevant",
+                                                    "leaning": "",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1607865650617384960,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1607934717667450880,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": [
+                        {
+                            "id": 1607936218058338309,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": "",
+                            "children": [
+                                {
+                                    "id": 1608040482130501632,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": "",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1615732969183870978,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1600742062852575238,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1634569990471921664,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1635257663595626501,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1629130131670269952,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1629174514981404674,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1635872582867058689,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1635918147562659841,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1632727330496937989,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1632977993478942721,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": [
+                        {
+                            "id": 1633009989764935680,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": "",
+                            "children": [
+                                {
+                                    "id": 1633014812601905152,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": "",
+                                    "children": [
+                                        {
+                                            "id": 1633016990708428836,
+                                            "text": "",
+                                            "stance": "Irrelevant",
+                                            "leaning": "",
+                                            "children": [
+                                                {
+                                                    "id": 1633018076093468672,
+                                                    "text": "",
+                                                    "stance": "Irrelevant",
+                                                    "leaning": "",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1626256949061746690,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1588212903009816577,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1588225299610828801,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1630265584515526656,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1601025666270785537,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1629725217529516032,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": [
+                {
+                    "id": 1629810434361442305,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1622776709849268228,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1622776901025529856,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": [
+                        {
+                            "id": 1622986564837027842,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": "",
+                            "children": [
+                                {
+                                    "id": 1622988007048347648,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": "",
+                                    "children": [
+                                        {
+                                            "id": 1623034165015810050,
+                                            "text": "",
+                                            "stance": "Irrelevant",
+                                            "leaning": "",
+                                            "children": [
+                                                {
+                                                    "id": 1623034754617511943,
+                                                    "text": "",
+                                                    "stance": "Irrelevant",
+                                                    "leaning": "",
+                                                    "children": [
+                                                        {
+                                                            "id": 1623055388563341313,
+                                                            "text": "",
+                                                            "stance": "Irrelevant",
+                                                            "leaning": "",
+                                                            "children": [
+                                                                {
+                                                                    "id": 1623056629708230659,
+                                                                    "text": "",
+                                                                    "stance": "Irrelevant",
+                                                                    "leaning": "",
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 1623057842050846722,
+                                                                            "text": "",
+                                                                            "stance": "Irrelevant",
+                                                                            "leaning": "",
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": 1623058440775168000,
+                                                                                    "text": "",
+                                                                                    "stance": "Irrelevant",
+                                                                                    "leaning": "",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": 1623059844763897859,
+                                                                                            "text": "",
+                                                                                            "stance": "Irrelevant",
+                                                                                            "leaning": "",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": 1623060421220663297,
+                                                                                                    "text": "",
+                                                                                                    "stance": "Irrelevant",
+                                                                                                    "leaning": "",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "id": 1623062795909758977,
+                                                                                                            "text": "",
+                                                                                                            "stance": "Irrelevant",
+                                                                                                            "leaning": "",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": 1623063488339021825,
+                                                                                                                    "text": "",
+                                                                                                                    "stance": "Irrelevant",
+                                                                                                                    "leaning": "",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": 1623198828798042113,
+                                                                                                                            "text": "",
+                                                                                                                            "stance": "Irrelevant",
+                                                                                                                            "leaning": "",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": 1623199380894261248,
+                                                                                                                                    "text": "",
+                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                    "leaning": "",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": 1623204240586903552,
+                                                                                                                                            "text": "",
+                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                            "leaning": "",
+                                                                                                                                            "children": []
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1580211785424330752,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1612202102981361665,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1612206836576571393,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1611898992488775683,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1593704076490915842,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": [
+                {
+                    "id": 1593711631195840512,
+                    "text": "",
+                    "stance": "Querying",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1634666776746156034,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Other",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1619052669703954432,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1601227373474562048,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1622565749838544899,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1622566424769179649,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Supporting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1635257967925927938,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1635257969637208064,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1621242386075582465,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1634253531539558400,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1601571055621271556,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1601585202949632000,
+                    "text": "",
+                    "stance": "Supporting",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1610044708926914561,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1603291488439472130,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1603335735674916864,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": [
+                        {
+                            "id": 1603410886273605634,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": "",
+                            "children": [
+                                {
+                                    "id": 1603411803748401155,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": "",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1609977568886767618,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1609986332570357761,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": [
+                        {
+                            "id": 1610024375402520586,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": "",
+                            "children": [
+                                {
+                                    "id": 1610101008599846914,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": "",
+                                    "children": [
+                                        {
+                                            "id": 1610192714988982273,
+                                            "text": "",
+                                            "stance": "Irrelevant",
+                                            "leaning": "",
+                                            "children": [
+                                                {
+                                                    "id": 1610261879166799873,
+                                                    "text": "",
+                                                    "stance": "Irrelevant",
+                                                    "leaning": "",
+                                                    "children": [
+                                                        {
+                                                            "id": 1610266569073987584,
+                                                            "text": "",
+                                                            "stance": "Irrelevant",
+                                                            "leaning": "",
+                                                            "children": [
+                                                                {
+                                                                    "id": 1610275596214439944,
+                                                                    "text": "",
+                                                                    "stance": "Irrelevant",
+                                                                    "leaning": "",
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 1610277431952433152,
+                                                                            "text": "",
+                                                                            "stance": "Irrelevant",
+                                                                            "leaning": "",
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": 1610278765107744768,
+                                                                                    "text": "",
+                                                                                    "stance": "Irrelevant",
+                                                                                    "leaning": "",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": 1610282129761484800,
+                                                                                            "text": "",
+                                                                                            "stance": "Irrelevant",
+                                                                                            "leaning": "",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": 1610291692808052745,
+                                                                                                    "text": "",
+                                                                                                    "stance": "Irrelevant",
+                                                                                                    "leaning": "",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "id": 1610316131671195649,
+                                                                                                            "text": "",
+                                                                                                            "stance": "Irrelevant",
+                                                                                                            "leaning": "",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": 1610335500610732032,
+                                                                                                                    "text": "",
+                                                                                                                    "stance": "Irrelevant",
+                                                                                                                    "leaning": "",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": 1610391824606142471,
+                                                                                                                            "text": "",
+                                                                                                                            "stance": "Irrelevant",
+                                                                                                                            "leaning": "",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": 1610441459005591552,
+                                                                                                                                    "text": "",
+                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                    "leaning": "",
+                                                                                                                                    "children": []
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1634168928355139584,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1634260208967884800,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1583125891466469377,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1583163123598381058,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Supporting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1614939454384242689,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1614949381056204800,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1580072387152072704,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1577422073550479362,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1620134969409695744,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1584657496643276801,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1577796525085757440,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1577871091615211520,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": [
+                        {
+                            "id": 1578074442026074113,
+                            "text": "",
+                            "stance": "Supporting",
+                            "leaning": "",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1584866128735543296,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1585063375331274752,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u0413\u0435\u043d\u043e\u0446\u0438\u0434 \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u043d\u0430 \u0414\u043e\u043d\u0431\u0430\u0441\u0441\u0435.",
+        "id": "5",
+        "source": "euvsdisinfo",
+        "root_tweet": {
+            "id": 1577914588833742849,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    }
+]

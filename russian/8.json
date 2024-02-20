@@ -1,0 +1,1010 @@
+[
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1628102409967763480,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1632696595975208961,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Other",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1628644566965297153,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1628683440999497728,
+                    "text": "",
+                    "stance": "Supporting",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1620682687811043328,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1620689406423355393,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": [
+                        {
+                            "id": 1620828507143286786,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": "",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1629064844451119106,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Supporting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1621778080313348096,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1621801339402571779,
+                    "text": "",
+                    "stance": "Querying",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1629829887136505856,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1629599880451686402,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1628898849271033857,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1627318414652874752,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1630319569465401344,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1630319572711800832,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": [
+                        {
+                            "id": 1630319574716645378,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": "",
+                            "children": [
+                                {
+                                    "id": 1630319576675385344,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": "",
+                                    "children": [
+                                        {
+                                            "id": 1630319578650902530,
+                                            "text": "",
+                                            "stance": "Irrelevant",
+                                            "leaning": "",
+                                            "children": [
+                                                {
+                                                    "id": 1630319580592865280,
+                                                    "text": "",
+                                                    "stance": "Irrelevant",
+                                                    "leaning": "",
+                                                    "children": [
+                                                        {
+                                                            "id": 1630319582987812865,
+                                                            "text": "",
+                                                            "stance": "Irrelevant",
+                                                            "leaning": "",
+                                                            "children": [
+                                                                {
+                                                                    "id": 1630319585194053632,
+                                                                    "text": "",
+                                                                    "stance": "Irrelevant",
+                                                                    "leaning": "",
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 1630319587232473088,
+                                                                            "text": "",
+                                                                            "stance": "Irrelevant",
+                                                                            "leaning": "",
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1627632247632191489,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1627335220818067457,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1630513427499106304,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1631366792722407450,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1630549015409438720,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1627653165054148608,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1629916967401402370,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1633336046384447489,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1628079742363611159,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1629220800854216705,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1629408435698642946,
+                    "text": "",
+                    "stance": "Supporting",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1621105108833689601,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1628052892316758016,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1633058677048459265,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1632169641517764608,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1621714383213678592,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1635164557294583808,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1626286079048560641,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1628085000108224529,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1627971918807670784,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1631646791451172865,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1627685265610362880,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1618994431901970432,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1623172765925736452,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1624330493834452993,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1634223251269513219,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1629149157108887552,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1629153464814018560,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": [
+                        {
+                            "id": 1629212716052127745,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": "",
+                            "children": [
+                                {
+                                    "id": 1629479169166913539,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": "",
+                                    "children": [
+                                        {
+                                            "id": 1633228024731541508,
+                                            "text": "",
+                                            "stance": "Supporting",
+                                            "leaning": "",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1626826382616453121,
+            "text": "",
+            "stance": "Querying",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1626828536815165442,
+                    "text": "",
+                    "stance": "Discussing",
+                    "leaning": "Refuting",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1619902013474738176,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1627699120826728454,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1628001999504523266,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1629793014221504513,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1624391614536855555,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": [
+                {
+                    "id": 1624391894963834888,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": [
+                        {
+                            "id": 1624392435118874624,
+                            "text": "",
+                            "stance": "Irrelevant",
+                            "leaning": "",
+                            "children": [
+                                {
+                                    "id": 1624393556835151872,
+                                    "text": "",
+                                    "stance": "Irrelevant",
+                                    "leaning": "",
+                                    "children": [
+                                        {
+                                            "id": 1624394877407559681,
+                                            "text": "",
+                                            "stance": "Irrelevant",
+                                            "leaning": "",
+                                            "children": [
+                                                {
+                                                    "id": 1624394975164174336,
+                                                    "text": "",
+                                                    "stance": "Irrelevant",
+                                                    "leaning": "",
+                                                    "children": [
+                                                        {
+                                                            "id": 1624398343198724097,
+                                                            "text": "",
+                                                            "stance": "Irrelevant",
+                                                            "leaning": "",
+                                                            "children": [
+                                                                {
+                                                                    "id": 1624405834779222016,
+                                                                    "text": "",
+                                                                    "stance": "Irrelevant",
+                                                                    "leaning": "",
+                                                                    "children": [
+                                                                        {
+                                                                            "id": 1624407307349098497,
+                                                                            "text": "",
+                                                                            "stance": "Irrelevant",
+                                                                            "leaning": "",
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": 1624407685201383424,
+                                                                                    "text": "",
+                                                                                    "stance": "Irrelevant",
+                                                                                    "leaning": "",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": 1624408774512459776,
+                                                                                            "text": "",
+                                                                                            "stance": "Irrelevant",
+                                                                                            "leaning": "",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": 1624409465930891264,
+                                                                                                    "text": "",
+                                                                                                    "stance": "Irrelevant",
+                                                                                                    "leaning": "",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "id": 1624410790013857792,
+                                                                                                            "text": "",
+                                                                                                            "stance": "Irrelevant",
+                                                                                                            "leaning": "",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": 1624411883145990146,
+                                                                                                                    "text": "",
+                                                                                                                    "stance": "Irrelevant",
+                                                                                                                    "leaning": "",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": 1624414858413309953,
+                                                                                                                            "text": "",
+                                                                                                                            "stance": "Irrelevant",
+                                                                                                                            "leaning": "",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": 1624416298489810944,
+                                                                                                                                    "text": "",
+                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                    "leaning": "",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": 1624419176210173952,
+                                                                                                                                            "text": "",
+                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                            "leaning": "",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": 1624420406684708864,
+                                                                                                                                                    "text": "",
+                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                    "leaning": "",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": 1624420986241093633,
+                                                                                                                                                            "text": "",
+                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                            "leaning": "",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": 1624421621363621889,
+                                                                                                                                                                    "text": "",
+                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                    "leaning": "",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": 1624421937521778688,
+                                                                                                                                                                            "text": "",
+                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                            "leaning": "",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": 1624422578373726208,
+                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                    "leaning": "",
+                                                                                                                                                                                    "children": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "id": 1624423927601659905,
+                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                                            "leaning": "",
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "id": 1624424791045287941,
+                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                                    "leaning": "",
+                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "id": 1624426246867238912,
+                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                                                            "leaning": "",
+                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "id": 1624427410698518528,
+                                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                                                    "leaning": "",
+                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                            "id": 1624446316104323078,
+                                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                                                                            "leaning": "",
+                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                    "id": 1624513875340062720,
+                                                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                                                                    "leaning": "",
+                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                            "id": 1624592514077413378,
+                                                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                                                                                            "leaning": "",
+                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                    "id": 1624683365218635778,
+                                                                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                                                                                    "leaning": "",
+                                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                            "id": 1624687719057092608,
+                                                                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                                                                            "stance": "Irrelevant",
+                                                                                                                                                                                                                                                            "leaning": "",
+                                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                    "id": 1624688594538332163,
+                                                                                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                                                                                    "stance": "Irrelevant",
+                                                                                                                                                                                                                                                                    "leaning": "",
+                                                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                                            "id": 1624693216866885632,
+                                                                                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                                                                                            "stance": "Supporting",
+                                                                                                                                                                                                                                                                            "leaning": "",
+                                                                                                                                                                                                                                                                            "children": []
+                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            ]
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ]
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1629832502779977730,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1620023373026959360,
+            "text": "",
+            "stance": "Supporting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1634672955270594561,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": [
+                {
+                    "id": 1634672957325824001,
+                    "text": "",
+                    "stance": "Irrelevant",
+                    "leaning": "",
+                    "children": []
+                }
+            ]
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1635508758653616130,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1619058079798292481,
+            "text": "",
+            "stance": "Discussing",
+            "leaning": "Refuting",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1630105309237616640,
+            "text": "",
+            "stance": "Refuting",
+            "leaning": "",
+            "children": []
+        }
+    },
+    {
+        "claim": "\u041d\u0410\u0422\u041e \u0445\u043e\u0447\u0435\u0442 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u044e.",
+        "id": "8",
+        "source": "eu_vs_disinfo",
+        "root_tweet": {
+            "id": 1634620870223093763,
+            "text": "",
+            "stance": "Irrelevant",
+            "leaning": "",
+            "children": []
+        }
+    }
+]
